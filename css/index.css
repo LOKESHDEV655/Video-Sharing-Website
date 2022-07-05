@@ -1,0 +1,62 @@
+#login{
+	border: 2px solid #035567;
+	color:#035567;
+	border-radius: 20px;
+	padding: 0.2rem 1rem!important;
+	line-height: 30px;
+}
+
+#signup{
+	border: 2px solid #035567;
+	color:#035567;
+	border-radius: 20px;
+	padding: 0.2rem 1rem!important;
+	line-height: 30px;
+	margin-right: 10px;
+}
+
+#login:hover{
+        cursor: pointer;
+	background-color:	#035567;
+	color: #FFFFFF;
+	border: 2px solid #035567;
+}
+
+#signup:hover{
+    cursor: pointer;
+	background-color:#87cefa;
+	color: #FFFFFF;
+	border: 2px solid #87cefa;
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  background-color: #e3f2fd;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-menu a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.w3-border-blue:hover{
+	background:white;	
+	color: blue;
+}
+
+.w3-border-blue{
+	background:#005AA6;			
+	color:white;				
+}
+
+
+
+
